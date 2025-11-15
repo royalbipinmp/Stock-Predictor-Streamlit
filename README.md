@@ -93,18 +93,6 @@ The app plots:
 
 ---
 
-## 📁 Project Structure  
-```
-📁 stock-predictor-streamlit
-│── app.py
-│── model/
-│── utils/
-│── requirements.txt
-└── README.md
-```
-
----
-
 ## 🤝 Contributing  
 Contributions are welcome!  
 ```bash
